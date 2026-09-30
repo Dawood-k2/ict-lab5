@@ -1,1 +1,2 @@
 Git is a distributed version control system that helps track changes in code
+Git allows developers to collaborate and manage different versions of files.
